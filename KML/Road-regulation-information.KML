@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2016/11/25 00:06:00</name>
+    <name>2016/11/26 00:05:58</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -1202,8 +1202,56 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="SYMBOL100">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL101">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL102">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL103">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1216,7 +1264,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1229,7 +1277,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1242,7 +1290,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1255,7 +1303,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1268,7 +1316,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1281,7 +1329,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1294,7 +1342,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1307,7 +1355,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1320,7 +1368,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1333,7 +1381,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1346,7 +1394,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1359,7 +1407,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1372,7 +1420,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1385,7 +1433,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1398,7 +1446,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1411,7 +1459,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1424,7 +1472,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1437,7 +1485,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1450,7 +1498,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1463,7 +1511,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1476,7 +1524,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1489,7 +1537,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1502,7 +1550,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1515,7 +1563,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1528,7 +1576,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1541,7 +1589,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1554,7 +1602,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1567,7 +1615,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1580,7 +1628,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1593,7 +1641,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1606,7 +1654,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1619,7 +1667,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1632,7 +1680,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1645,7 +1693,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1658,7 +1706,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1671,7 +1719,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1684,7 +1732,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1697,7 +1745,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1710,7 +1758,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1723,7 +1771,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1736,7 +1784,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1749,7 +1797,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1762,7 +1810,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1775,7 +1823,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1788,7 +1836,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1801,7 +1849,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1814,7 +1862,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1827,7 +1875,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1840,7 +1888,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1853,7 +1901,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1866,7 +1914,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1879,7 +1927,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1892,7 +1940,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1905,7 +1953,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1918,7 +1966,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1931,7 +1979,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1944,7 +1992,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1957,7 +2005,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1970,7 +2018,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1983,7 +2031,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1996,7 +2044,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2009,7 +2057,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2022,7 +2070,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2035,7 +2083,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2048,7 +2096,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2061,7 +2109,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2074,7 +2122,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2087,7 +2135,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2100,7 +2148,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2113,7 +2161,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2126,7 +2174,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2139,7 +2187,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2152,7 +2200,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2165,7 +2213,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2178,7 +2226,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2191,7 +2239,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2204,7 +2252,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2217,7 +2265,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2230,7 +2278,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2243,7 +2291,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2256,7 +2304,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2269,7 +2317,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2282,7 +2330,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2295,7 +2343,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2308,7 +2356,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2321,7 +2369,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2334,7 +2382,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2347,7 +2395,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2360,7 +2408,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2373,7 +2421,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2386,7 +2434,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2399,7 +2447,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2412,7 +2460,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2425,7 +2473,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2438,7 +2486,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2451,7 +2499,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2464,7 +2512,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2477,7 +2525,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2490,7 +2538,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2016/11/25 00:06:00</name>
+      <name>2016/11/26 00:05:58</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2499,6 +2547,58 @@
         <styleUrl>#SYMBOL99</styleUrl>
         <Point>
           <coordinates>135.342466657047,34.0847843638574</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2016/11/26 00:05:58</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 すさみ古座線　すさみ町周参見(時間通行規制　８ｔ以上車輌通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 すさみ古座線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>有限会社　竹本組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制　８ｔ以上車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2016/11/28 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/02/13 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>終日８ｔ以上車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～10:30　10:45～12:00　13:00～13:40　14:00～14:50　15:10～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL100</styleUrl>
+        <Point>
+          <coordinates>135.553065586799,33.5560655184985</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2016/11/26 00:05:58</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 すさみ古座線　すさみ町周参見(時間通行規制　８ｔ以上車輌通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 すさみ古座線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>有限会社　竹本組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制　８ｔ以上車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2016/11/28 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/02/13 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>終日８ｔ以上車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～10:30　10:45～12:00　13:00～13:40　14:00～14:50　15:10～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL101</styleUrl>
+        <Point>
+          <coordinates>135.553778539682,33.5556155849298</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2016/11/26 00:05:58</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 すさみ古座線　すさみ町小河内(時間通行規制　８ｔ以上の車輌通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 すさみ古座線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町小河内</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町小河内</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>有限会社　東組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制　８ｔ以上の車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2016/11/28 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/02/13 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>終日　８t以上車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00~10:30　10:45~12:00　13:00~13:40　14:00~14:50　15:10~17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL102</styleUrl>
+        <Point>
+          <coordinates>135.576151245759,33.5667978398114</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2016/11/26 00:05:58</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 すさみ古座線　すさみ町小河内(時間通行規制　８ｔ以上の車輌通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 すさみ古座線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町小河内</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町小河内</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>有限会社　東組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制　８ｔ以上の車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2016/11/28 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/02/13 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>終日　８t以上車輌通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00~10:30　10:45~12:00　13:00~13:40　14:00~14:50　15:10~17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL103</styleUrl>
+        <Point>
+          <coordinates>135.575147335511,33.566704827515</coordinates>
         </Point>
       </Placemark>
     </Folder>
