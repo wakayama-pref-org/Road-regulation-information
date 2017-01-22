@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2017/01/22 00:05:41</name>
+    <name>2017/01/23 00:05:43</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -1250,56 +1250,8 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="SYMBOL104">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="SYMBOL105">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="SYMBOL106">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="SYMBOL107">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1312,7 +1264,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1325,7 +1277,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1338,7 +1290,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1351,7 +1303,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1364,7 +1316,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1377,7 +1329,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1390,7 +1342,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1403,7 +1355,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1416,7 +1368,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1429,7 +1381,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1442,7 +1394,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1455,7 +1407,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1468,7 +1420,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1481,7 +1433,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1494,7 +1446,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1507,7 +1459,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1520,7 +1472,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1533,7 +1485,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1546,7 +1498,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1559,7 +1511,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1572,7 +1524,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1585,7 +1537,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1598,7 +1550,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1611,7 +1563,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1624,7 +1576,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1637,7 +1589,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1650,7 +1602,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1663,7 +1615,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1676,7 +1628,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1689,7 +1641,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1702,7 +1654,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1715,7 +1667,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1728,7 +1680,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1741,7 +1693,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1754,7 +1706,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1767,7 +1719,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1780,7 +1732,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1793,7 +1745,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1806,7 +1758,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1819,7 +1771,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1832,7 +1784,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1845,7 +1797,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1858,7 +1810,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1871,7 +1823,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1884,7 +1836,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1897,7 +1849,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1910,7 +1862,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1923,7 +1875,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1936,7 +1888,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1949,7 +1901,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1962,7 +1914,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1975,7 +1927,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1988,7 +1940,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2001,7 +1953,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2014,7 +1966,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2027,7 +1979,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2040,7 +1992,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2053,7 +2005,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2066,7 +2018,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2079,7 +2031,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2092,7 +2044,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2105,7 +2057,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2118,7 +2070,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2131,7 +2083,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2144,7 +2096,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2157,7 +2109,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2170,7 +2122,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2183,7 +2135,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2196,7 +2148,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2209,7 +2161,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2222,7 +2174,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2235,7 +2187,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2248,7 +2200,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2261,7 +2213,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2274,7 +2226,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2287,7 +2239,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2300,7 +2252,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2313,7 +2265,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2326,7 +2278,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2339,7 +2291,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2352,7 +2304,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2365,7 +2317,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2378,7 +2330,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2391,7 +2343,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2404,7 +2356,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2417,7 +2369,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2430,7 +2382,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2443,7 +2395,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2456,7 +2408,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2469,7 +2421,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2482,7 +2434,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2495,7 +2447,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2508,7 +2460,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2521,7 +2473,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2534,7 +2486,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2547,7 +2499,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2560,7 +2512,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2573,7 +2525,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2586,7 +2538,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2599,7 +2551,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2612,7 +2564,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2625,7 +2577,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2638,7 +2590,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/01/22 00:05:41</name>
+      <name>2017/01/23 00:05:44</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2647,58 +2599,6 @@
         <styleUrl>#SYMBOL103</styleUrl>
         <Point>
           <coordinates>135.484190669246,34.1648285711561</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/01/22 00:05:41</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般国道 371号　高野町高野山(通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>路面凍結・積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/01/21 7:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>伊都建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>路面凍結・積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL104</styleUrl>
-        <Point>
-          <coordinates>135.570430751652,34.2102116101379</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/01/22 00:05:41</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般国道 371号　高野町高野山(通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>路面凍結・積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/01/21 7:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>伊都建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>路面凍結・積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL105</styleUrl>
-        <Point>
-          <coordinates>135.607486639136,34.2110119621514</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/01/22 00:05:41</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般国道 371号　伊都郡高野町高野山(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>伊都郡高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>田辺市龍神村龍神字大熊（高野龍神スカイライン）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>積雪・路面凍結</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/01/21 7:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>積雪・路面凍結</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL106</styleUrl>
-        <Point>
-          <coordinates>135.605152449311,34.2156006208252</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/01/22 00:05:41</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般国道 371号　伊都郡高野町高野山(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>伊都郡高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>田辺市龍神村龍神字大熊（高野龍神スカイライン）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>積雪・路面凍結</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/01/21 7:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>積雪・路面凍結</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL107</styleUrl>
-        <Point>
-          <coordinates>135.562088537204,33.9940165953954</coordinates>
         </Point>
       </Placemark>
     </Folder>
