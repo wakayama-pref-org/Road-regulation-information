@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2017/04/06 00:06:26</name>
+    <name>2017/04/07 00:06:19</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -991,7 +991,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/999.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -1003,7 +1003,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/999.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -1034,32 +1034,8 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="SYMBOL86">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="SYMBOL87">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1072,7 +1048,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1085,7 +1061,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1098,7 +1074,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1111,7 +1087,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1124,7 +1100,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1137,7 +1113,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1150,7 +1126,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1163,7 +1139,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1176,7 +1152,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1189,7 +1165,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1202,7 +1178,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1215,7 +1191,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1228,7 +1204,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1241,7 +1217,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1254,7 +1230,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1267,7 +1243,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1280,7 +1256,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1293,7 +1269,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1306,7 +1282,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1319,7 +1295,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1332,7 +1308,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1345,7 +1321,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1358,7 +1334,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1371,7 +1347,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1384,7 +1360,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1397,7 +1373,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1410,7 +1386,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1423,7 +1399,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1436,7 +1412,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1449,7 +1425,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1462,7 +1438,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1475,7 +1451,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1488,7 +1464,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1501,7 +1477,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1514,7 +1490,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1527,7 +1503,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1540,7 +1516,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1553,7 +1529,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1566,7 +1542,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1579,7 +1555,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1592,7 +1568,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1605,7 +1581,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1618,7 +1594,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1631,7 +1607,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1644,7 +1620,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1657,7 +1633,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1670,7 +1646,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1683,7 +1659,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1696,7 +1672,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1709,7 +1685,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1722,7 +1698,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1735,7 +1711,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1748,7 +1724,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1761,7 +1737,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1774,7 +1750,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1787,7 +1763,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1800,7 +1776,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1813,7 +1789,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1826,7 +1802,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1839,7 +1815,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1852,7 +1828,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1865,7 +1841,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1878,7 +1854,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1891,7 +1867,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1904,7 +1880,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1917,7 +1893,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1930,7 +1906,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1943,7 +1919,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1956,7 +1932,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1969,7 +1945,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1982,7 +1958,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1995,7 +1971,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2008,7 +1984,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2021,7 +1997,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2034,7 +2010,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2047,7 +2023,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2060,7 +2036,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2073,7 +2049,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2086,7 +2062,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2099,7 +2075,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2112,7 +2088,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2125,78 +2101,52 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般国道 371号　高野町高野山(チェーン携行・２輪車終日通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>路面凍結・積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>チェーン携行・２輪車終日通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/04/01 15:30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>伊都建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>路面凍結・積雪の恐れ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL82</styleUrl>
-        <Point>
-          <coordinates>135.570780613804,34.2104334131569</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/04/06 00:06:26</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般国道 371号　高野町高野山(チェーン携行・２輪車終日通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>高野町高野山</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>路面凍結・積雪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>チェーン携行・２輪車終日通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/04/01 15:30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>伊都建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>路面凍結・積雪の恐れ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL83</styleUrl>
-        <Point>
-          <coordinates>135.607477415299,34.2105512439067</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 平瀬上三栖線　田辺市上野(時間制限通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 平瀬上三栖線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>田辺市上野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>田辺市上野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>有限会社　野中建設</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間制限通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/01/11 8:30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/06/20 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>通行止時間8:30～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL84</styleUrl>
+        <styleUrl>#SYMBOL82</styleUrl>
         <Point>
           <coordinates>135.469128946903,33.7695307036221</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 平瀬上三栖線　田辺市上野(時間制限通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 平瀬上三栖線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>田辺市上野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>田辺市上野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>有限会社　野中建設</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間制限通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/01/11 8:30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/06/20 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>通行止時間8:30～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL85</styleUrl>
+        <styleUrl>#SYMBOL83</styleUrl>
         <Point>
           <coordinates>135.468896952339,33.769982647648</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 480号　日高郡みなべ町清川(全面通行止（旧道）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 480号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高郡みなべ町清川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高郡みなべ町清川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社小池組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/04/03 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/04/20 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>土日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9時～17時</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL86</styleUrl>
+        <styleUrl>#SYMBOL84</styleUrl>
         <Point>
           <coordinates>135.389807819611,33.8523136197033</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/04/06 00:06:26</name>
+      <name>2017/04/07 00:06:19</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 480号　日高郡みなべ町清川(全面通行止（旧道）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 480号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高郡みなべ町清川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高郡みなべ町清川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社小池組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/04/03 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/04/20 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>土日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9時～17時</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL87</styleUrl>
+        <styleUrl>#SYMBOL85</styleUrl>
         <Point>
           <coordinates>135.39019085748,33.852585997766</coordinates>
         </Point>
