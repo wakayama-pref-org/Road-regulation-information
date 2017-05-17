@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2017/05/17 00:05:57</name>
+    <name>2017/05/18 00:05:56</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -1106,8 +1106,32 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="SYMBOL92">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="SYMBOL93">
+      <IconStyle>
+        <scale>1.0</scale>
+        <heading>0.0</heading>
+        <Icon>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <refreshInterval>0.0</refreshInterval>
+          <viewRefreshTime>0.0</viewRefreshTime>
+          <viewBoundScale>0.0</viewBoundScale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1120,7 +1144,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1133,7 +1157,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1146,7 +1170,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1159,7 +1183,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1172,7 +1196,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1185,7 +1209,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1198,7 +1222,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1211,7 +1235,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1224,7 +1248,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1237,7 +1261,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1250,7 +1274,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1263,7 +1287,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1276,7 +1300,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1289,7 +1313,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1302,7 +1326,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1315,7 +1339,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1328,7 +1352,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1341,7 +1365,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1354,7 +1378,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1367,7 +1391,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1380,7 +1404,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1393,7 +1417,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1406,7 +1430,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1419,7 +1443,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1432,7 +1456,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1445,7 +1469,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1458,7 +1482,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1471,7 +1495,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1484,7 +1508,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1497,7 +1521,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1510,7 +1534,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1523,7 +1547,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1536,7 +1560,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1549,7 +1573,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1562,7 +1586,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1575,7 +1599,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1588,7 +1612,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1601,7 +1625,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1614,7 +1638,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1627,7 +1651,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1640,7 +1664,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1653,7 +1677,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1666,7 +1690,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1679,7 +1703,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1692,7 +1716,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1705,7 +1729,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1718,7 +1742,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1731,7 +1755,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1744,7 +1768,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1757,7 +1781,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1770,7 +1794,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1783,7 +1807,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1796,7 +1820,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1809,7 +1833,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1822,7 +1846,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1835,7 +1859,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1848,7 +1872,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1861,7 +1885,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1874,7 +1898,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1887,7 +1911,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1900,7 +1924,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1913,7 +1937,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1926,7 +1950,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1939,7 +1963,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1952,7 +1976,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1965,7 +1989,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1978,7 +2002,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1991,7 +2015,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2004,7 +2028,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2017,7 +2041,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2030,7 +2054,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2043,7 +2067,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2056,7 +2080,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2069,7 +2093,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2082,7 +2106,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2095,7 +2119,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2108,7 +2132,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2121,7 +2145,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2134,7 +2158,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2147,7 +2171,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2160,7 +2184,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2173,7 +2197,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2186,7 +2210,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2199,7 +2223,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2212,7 +2236,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2225,7 +2249,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2238,7 +2262,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2251,7 +2275,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2264,7 +2288,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2277,7 +2301,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2290,7 +2314,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/05/17 00:05:58</name>
+      <name>2017/05/18 00:05:56</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -2299,6 +2323,32 @@
         <styleUrl>#SYMBOL91</styleUrl>
         <Point>
           <coordinates>135.35373506269,33.8926065624919</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/05/18 00:05:56</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 御坊中津線　日高川町大又(時間制限通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 御坊中津線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町大又</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町大又</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>西川興業株式会社</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間制限通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/05/23 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/05/30 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9時～17時</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL92</styleUrl>
+        <Point>
+          <coordinates>135.290262924865,33.9214241535447</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/05/18 00:05:56</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 御坊中津線　日高川町大又(時間制限通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 御坊中津線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町大又</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町大又</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>西川興業株式会社</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間制限通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/05/23 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/05/30 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9時～17時</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL93</styleUrl>
+        <Point>
+          <coordinates>135.292262024309,33.9216272459067</coordinates>
         </Point>
       </Placemark>
     </Folder>
