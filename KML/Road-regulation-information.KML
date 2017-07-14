@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2017/07/14 00:05:59</name>
+    <name>2017/07/15 00:05:59</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -103,7 +103,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/333.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -115,7 +115,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/333.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -199,7 +199,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/333.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -211,7 +211,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/333.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -890,32 +890,8 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="SYMBOL74">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="SYMBOL75">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -928,7 +904,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -941,7 +917,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -954,7 +930,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -967,7 +943,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -980,7 +956,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -993,7 +969,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1006,7 +982,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1019,215 +995,215 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　古座川町小森川(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL8</styleUrl>
-        <Point>
-          <coordinates>135.787417535612,33.6428131351065</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　古座川町小森川(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL9</styleUrl>
-        <Point>
-          <coordinates>135.762229483255,33.680437351278</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　古座川町松根(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL10</styleUrl>
-        <Point>
-          <coordinates>135.733147606808,33.6923513545661</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　古座川町松根(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL11</styleUrl>
-        <Point>
-          <coordinates>135.757068739951,33.6862305851822</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　日高川町上初湯川(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>不明</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL12</styleUrl>
-        <Point>
-          <coordinates>135.480519444145,34.0299186918365</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　日高川町上初湯川(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>不明</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL13</styleUrl>
-        <Point>
-          <coordinates>135.481233403713,34.0292607822094</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　日高川町高津尾川(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町高津尾川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町高津尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL14</styleUrl>
-        <Point>
-          <coordinates>135.295911302907,34.0057502151938</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　日高川町高津尾川(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町高津尾川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町高津尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL15</styleUrl>
-        <Point>
-          <coordinates>135.28370143022,34.0037961585982</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 佐本深谷三尾川線　古座川町長追(４トン超車両通行止め)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 佐本深谷三尾川線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町長追</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町長追</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>４トン超車両通行止め</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2013/09/25 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL16</styleUrl>
+        <styleUrl>#SYMBOL8</styleUrl>
         <Point>
           <coordinates>135.668954670452,33.5840850083832</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 佐本深谷三尾川線　古座川町長追(４トン超車両通行止め)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 佐本深谷三尾川線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町長追</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町長追</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>４トン超車両通行止め</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2013/09/25 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL17</styleUrl>
+        <styleUrl>#SYMBOL9</styleUrl>
         <Point>
           <coordinates>135.668687684602,33.5843599715781</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 169号　新宮市熊野川町玉置口(全面通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 169号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>新宮市熊野川町玉置口</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>新宮市熊野川町玉置口</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2012/07/13 14:0:0</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>新宮建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>法面崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>本区間は旧道の一部</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL18</styleUrl>
+        <styleUrl>#SYMBOL10</styleUrl>
         <Point>
           <coordinates>135.871502591115,33.9070084675458</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 169号　新宮市熊野川町玉置口(全面通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 169号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>新宮市熊野川町玉置口</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>新宮市熊野川町玉置口</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2012/07/13 14:0:0</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>新宮建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>法面崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>本区間は旧道の一部</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL19</styleUrl>
+        <styleUrl>#SYMBOL11</styleUrl>
         <Point>
           <coordinates>135.871881592131,33.9059875908007</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 311号　田辺市中辺路町栗栖川～真砂（旧道）(全面通行止（旧道）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 311号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>田辺市中辺路町栗栖川～真砂（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>田辺市中辺路町栗栖川～真砂（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2015/05/12 12:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>通行不能（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>国道311号（新道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL20</styleUrl>
+        <styleUrl>#SYMBOL12</styleUrl>
         <Point>
           <coordinates>135.500869051411,33.7739539267914</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 311号　田辺市中辺路町栗栖川～真砂（旧道）(全面通行止（旧道）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 311号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>田辺市中辺路町栗栖川～真砂（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>田辺市中辺路町栗栖川～真砂（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2015/05/12 12:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td>通行不能（旧道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>国道311号（新道）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL21</styleUrl>
+        <styleUrl>#SYMBOL13</styleUrl>
         <Point>
           <coordinates>135.499867195318,33.7721991009743</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>その他　那智勝浦町小匠(全面通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>那智勝浦町小匠</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>那智勝浦町高野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2015/06/01</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL22</styleUrl>
+        <styleUrl>#SYMBOL14</styleUrl>
         <Point>
           <coordinates>135.844585910563,33.6027259208753</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>その他　那智勝浦町小匠(全面通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>那智勝浦町小匠</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>那智勝浦町高野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2015/06/01</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL23</styleUrl>
+        <styleUrl>#SYMBOL15</styleUrl>
         <Point>
           <coordinates>135.81069674816,33.6360214256509</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　古座川町小森川(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL16</styleUrl>
+        <Point>
+          <coordinates>135.787417535612,33.6428131351065</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　古座川町小森川(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL17</styleUrl>
+        <Point>
+          <coordinates>135.762229483255,33.680437351278</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　古座川町松根(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL18</styleUrl>
+        <Point>
+          <coordinates>135.733147606808,33.6923513545661</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　古座川町松根(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町小森川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL19</styleUrl>
+        <Point>
+          <coordinates>135.757068739951,33.6862305851822</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　日高川町上初湯川(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>不明</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL20</styleUrl>
+        <Point>
+          <coordinates>135.480519444145,34.0299186918365</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　日高川町上初湯川(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町上初湯川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>不明</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL21</styleUrl>
+        <Point>
+          <coordinates>135.481233403713,34.0292607822094</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　日高川町高津尾川(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町高津尾川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町高津尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL22</styleUrl>
+        <Point>
+          <coordinates>135.295911302907,34.0057502151938</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　日高川町高津尾川(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町高津尾川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町高津尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>未定</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>道路保全課</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL23</styleUrl>
+        <Point>
+          <coordinates>135.28370143022,34.0037961585982</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1240,7 +1216,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1253,7 +1229,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1266,7 +1242,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1279,7 +1255,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1292,7 +1268,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1305,7 +1281,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1318,7 +1294,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1331,7 +1307,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1344,7 +1320,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1357,7 +1333,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1370,7 +1346,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1383,7 +1359,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1396,7 +1372,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1409,7 +1385,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1422,7 +1398,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1435,7 +1411,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1448,7 +1424,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1461,7 +1437,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1474,7 +1450,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1487,7 +1463,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1500,7 +1476,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1513,7 +1489,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1526,7 +1502,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1539,7 +1515,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1552,7 +1528,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1565,7 +1541,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1578,7 +1554,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1591,7 +1567,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1604,7 +1580,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1617,7 +1593,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1630,7 +1606,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1643,7 +1619,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1656,7 +1632,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1669,7 +1645,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1682,7 +1658,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1695,7 +1671,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1708,7 +1684,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1721,7 +1697,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1734,7 +1710,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1747,7 +1723,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1760,7 +1736,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1773,7 +1749,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1786,7 +1762,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1799,7 +1775,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1812,7 +1788,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1825,78 +1801,52 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般県道 城すさみ線　すさみ町周参見(時間通行規制)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 城すさみ線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社　小森組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/06/26 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/07/08 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～9:50  10:00～10:55  11:05～11:25  12:30～13:45  13:55～15:15  15:30～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>県道すさみ古座線、町道太間地バイパス線、県道城すさみ線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL70</styleUrl>
-        <Point>
-          <coordinates>135.496571436506,33.5571221252054</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>一般県道 城すさみ線　すさみ町周参見(時間通行規制)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 城すさみ線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社　小森組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/06/26 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/07/08 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～9:50  10:00～10:55  11:05～11:25  12:30～13:45  13:55～15:15  15:30～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>県道すさみ古座線、町道太間地バイパス線、県道城すさみ線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL71</styleUrl>
-        <Point>
-          <coordinates>135.496571454998,33.5565471895334</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 371号　古座川町真砂(時間通行規制)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町真砂</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町真砂</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/06/12 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/12/22 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>8月11日～8月16日除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～11:00　11:15～12:00　13:00～13:45　14:00～15:20　15:40～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>県道佐本深谷三尾川線～町道佐田長追1号線～町道真砂長追線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL72</styleUrl>
+        <styleUrl>#SYMBOL70</styleUrl>
         <Point>
           <coordinates>135.688621052832,33.5816027322415</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般国道 371号　古座川町真砂(時間通行規制)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般国道 371号</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町真砂</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町真砂</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/06/12 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/12/22 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>8月11日～8月16日除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～11:00　11:15～12:00　13:00～13:45　14:00～15:20　15:40～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>県道佐本深谷三尾川線～町道佐田長追1号線～町道真砂長追線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL73</styleUrl>
+        <styleUrl>#SYMBOL71</styleUrl>
         <Point>
           <coordinates>135.687775173346,33.5801368769374</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>主要地方道 すさみ古座線　すさみ町周参見(時間通行規制)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 すさみ古座線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社　小森組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/07/03 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/09/30 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>8月11日～8月16日除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～10:30 10:45～12:00　13:00～14:20　14:30～15:40　15:50～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL74</styleUrl>
+        <styleUrl>#SYMBOL72</styleUrl>
         <Point>
           <coordinates>135.54290739594,33.5582010501839</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2017/07/14 00:06:00</name>
+      <name>2017/07/15 00:05:59</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>主要地方道 すさみ古座線　すさみ町周参見(時間通行規制)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 すさみ古座線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>すさみ町周参見</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社　小森組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間通行規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2017/07/03 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2017/09/30 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td>8月11日～8月16日除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～10:30 10:45～12:00　13:00～14:20　14:30～15:40　15:50～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td>緊急車両除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL75</styleUrl>
+        <styleUrl>#SYMBOL73</styleUrl>
         <Point>
           <coordinates>135.543942379763,33.5559263280063</coordinates>
         </Point>
