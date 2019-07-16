@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2019/07/16 00:05:01</name>
+    <name>2019/07/17 00:05:02</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -487,7 +487,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/555.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -499,7 +499,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/555.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -583,7 +583,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/555.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -595,7 +595,7 @@
         <scale>1.0</scale>
         <heading>0.0</heading>
         <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/555.gif</href>
+          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
           <refreshInterval>0.0</refreshInterval>
           <viewRefreshTime>0.0</viewRefreshTime>
           <viewBoundScale>0.0</viewBoundScale>
@@ -891,7 +891,7 @@
       </IconStyle>
     </Style>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -904,7 +904,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -917,7 +917,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -930,7 +930,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -943,7 +943,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -956,7 +956,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -969,7 +969,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -982,7 +982,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -995,7 +995,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1008,7 +1008,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1021,7 +1021,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1034,7 +1034,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1047,7 +1047,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1060,7 +1060,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1073,7 +1073,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1086,7 +1086,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1099,7 +1099,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1112,7 +1112,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1125,7 +1125,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1138,7 +1138,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1151,7 +1151,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1164,7 +1164,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1177,7 +1177,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1190,7 +1190,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1203,7 +1203,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1216,7 +1216,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1229,7 +1229,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1242,7 +1242,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1255,7 +1255,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1268,7 +1268,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1281,7 +1281,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1294,7 +1294,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1307,7 +1307,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1320,7 +1320,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1333,7 +1333,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1346,7 +1346,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1359,7 +1359,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1372,7 +1372,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1385,7 +1385,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1398,7 +1398,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1411,202 +1411,202 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>主要地方道 美里龍神線　有田川町下湯川福井(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>有田建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 美里龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社辻本組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/05/11 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/08/27 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～17:00（木曜日の11:30～12:30の間は通行可）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL40</styleUrl>
-        <Point>
-          <coordinates>135.473034098794,34.0601741134022</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>主要地方道 美里龍神線　有田川町下湯川福井(全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>有田建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 美里龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社辻本組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/05/11 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/08/27 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～17:00（木曜日の11:30～12:30の間は通行可）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL41</styleUrl>
-        <Point>
-          <coordinates>135.473250075886,34.0602991042525</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>主要地方道 田辺龍神線　日高川町寒川(終日全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 田辺龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/5/17</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL42</styleUrl>
-        <Point>
-          <coordinates>135.488634255141,33.9533294964454</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>主要地方道 田辺龍神線　日高川町寒川(終日全面通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 田辺龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/5/17</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL43</styleUrl>
-        <Point>
-          <coordinates>135.489513176127,33.9534105073537</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　紀の川市桃山町段(通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町段</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL44</styleUrl>
-        <Point>
-          <coordinates>135.341281029598,34.2487785140327</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　紀の川市桃山町段(通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町段</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL45</styleUrl>
-        <Point>
-          <coordinates>135.32862966632,34.2269598105615</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　紀の川市桃山町調月(通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市貴志川町北</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL46</styleUrl>
-        <Point>
-          <coordinates>135.327990444319,34.2205437108587</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>その他　紀の川市桃山町調月(通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市貴志川町北</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL47</styleUrl>
-        <Point>
-          <coordinates>135.32717662667,34.2171770726251</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>主要地方道 御坊由良線　美浜町三尾(終日片側交互通行(2t車超通行不可）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 御坊由良線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>美浜町三尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>美浜町三尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日片側交互通行(2t車超通行不可）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/06/14 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/09/04 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL48</styleUrl>
+        <styleUrl>#SYMBOL40</styleUrl>
         <Point>
           <coordinates>135.078886941578,33.8909222542139</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>主要地方道 御坊由良線　美浜町三尾(終日片側交互通行(2t車超通行不可）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 御坊由良線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>美浜町三尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>美浜町三尾</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日片側交互通行(2t車超通行不可）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/06/14 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/09/04 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL49</styleUrl>
+        <styleUrl>#SYMBOL41</styleUrl>
         <Point>
           <coordinates>135.077951008277,33.8913831812855</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>主要地方道 御坊中津線　日高川町上田原(終日全面通行止（迂回路有）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 御坊中津線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町上田原</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町上田原</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日全面通行止（迂回路有）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/07/01 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/11/28 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL50</styleUrl>
+        <styleUrl>#SYMBOL42</styleUrl>
         <Point>
           <coordinates>135.325142049181,33.9662273296341</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>主要地方道 御坊中津線　日高川町上田原(終日全面通行止（迂回路有）)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 御坊中津線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町上田原</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町上田原</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日全面通行止（迂回路有）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/07/01 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/11/28 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL51</styleUrl>
+        <styleUrl>#SYMBOL43</styleUrl>
         <Point>
           <coordinates>135.32587188301,33.9693709922011</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 古座川熊野川線　古座川町松根(全面通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 古座川熊野川線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/09/06 12:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/08/19 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>県道古座川熊野川線、県道那智勝浦熊野川線、国道１６８号、国道４２号、国道371号、町道佐田下露線、古座川熊野川線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL52</styleUrl>
+        <styleUrl>#SYMBOL44</styleUrl>
         <Point>
           <coordinates>135.717893450794,33.6762168131206</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 古座川熊野川線　古座川町松根(全面通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 古座川熊野川線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>古座川町松根</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td>災害</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/09/06 12:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/08/19 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td>串本建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td>路肩崩壊</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td>県道古座川熊野川線、県道那智勝浦熊野川線、国道１６８号、国道４２号、国道371号、町道佐田下露線、古座川熊野川線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL53</styleUrl>
+        <styleUrl>#SYMBOL45</styleUrl>
         <Point>
           <coordinates>135.719098340012,33.6764218176166</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>主要地方道 那智勝浦古座川線　那智勝浦町小阪(通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>新宮建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 那智勝浦古座川線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>那智勝浦町小阪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>那智勝浦町小阪</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/07/01 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/07/06 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>規制時間（通行できない時間）　9:00~10:30、10:45~12:00、13:00~14:30、14:45~17:00</td></tr></table>]]></description>
-        <styleUrl>#SYMBOL54</styleUrl>
+        <styleUrl>#SYMBOL46</styleUrl>
         <Point>
           <coordinates>135.877262091971,33.6639988181232</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 美里龍神線　有田川町下湯川福井(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>有田建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 美里龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社辻本組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/05/11 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/08/27 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～17:00（木曜日の11:30～12:30の間は通行可）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL47</styleUrl>
+        <Point>
+          <coordinates>135.473034098794,34.0601741134022</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 美里龍神線　有田川町下湯川福井(全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>有田建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 美里龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>有田川町下湯川福井</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社辻本組</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/05/11 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/08/27 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td>日祝除く</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～17:00（木曜日の11:30～12:30の間は通行可）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL48</styleUrl>
+        <Point>
+          <coordinates>135.473250075886,34.0602991042525</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 田辺龍神線　日高川町寒川(終日全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 田辺龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/5/17</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL49</styleUrl>
+        <Point>
+          <coordinates>135.488634255141,33.9533294964454</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>主要地方道 田辺龍神線　日高川町寒川(終日全面通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 田辺龍神線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>日高川町寒川</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>終日全面通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/5/17</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/30</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
+        <styleUrl>#SYMBOL50</styleUrl>
+        <Point>
+          <coordinates>135.489513176127,33.9534105073537</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　紀の川市桃山町段(通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町段</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL51</styleUrl>
+        <Point>
+          <coordinates>135.341281029598,34.2487785140327</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　紀の川市桃山町段(通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町段</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL52</styleUrl>
+        <Point>
+          <coordinates>135.32862966632,34.2269598105615</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　紀の川市桃山町調月(通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市貴志川町北</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL53</styleUrl>
+        <Point>
+          <coordinates>135.327990444319,34.2205437108587</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>その他　紀の川市桃山町調月(通行止)</name>
+        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>那賀建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>その他</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>紀の川市桃山町調月</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>紀の川市貴志川町北</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2018/11/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/06/15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>終日</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td>通行止め路線は、貴志川自転車道線（サイクリングロード）です。</td></tr></table>]]></description>
+        <styleUrl>#SYMBOL54</styleUrl>
+        <Point>
+          <coordinates>135.32717662667,34.2171770726251</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1619,7 +1619,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1632,7 +1632,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1645,7 +1645,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1658,7 +1658,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1671,7 +1671,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1684,7 +1684,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1697,7 +1697,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1710,7 +1710,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1723,7 +1723,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1736,7 +1736,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1749,7 +1749,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1762,7 +1762,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1775,7 +1775,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1788,7 +1788,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1801,7 +1801,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1814,7 +1814,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1827,7 +1827,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1840,7 +1840,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/16 00:05:02</name>
+      <name>2019/07/17 00:05:03</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
