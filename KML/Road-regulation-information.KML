@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>2019/07/26 00:05:02</name>
+    <name>2019/07/27 00:05:02</name>
     <Style id="SYMBOL0">
       <IconStyle>
         <scale>1.0</scale>
@@ -914,32 +914,8 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="SYMBOL76">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="SYMBOL77">
-      <IconStyle>
-        <scale>1.0</scale>
-        <heading>0.0</heading>
-        <Icon>
-          <href>http://www2.wagmap.jp/wakayamaken/wakayamaken/Content/images/plugin/icon/doro/111.gif</href>
-          <refreshInterval>0.0</refreshInterval>
-          <viewRefreshTime>0.0</viewRefreshTime>
-          <viewBoundScale>0.0</viewBoundScale>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -952,7 +928,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -965,7 +941,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -978,7 +954,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -991,7 +967,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1004,7 +980,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1017,7 +993,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1030,7 +1006,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1043,7 +1019,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1056,7 +1032,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1069,7 +1045,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1082,7 +1058,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1095,7 +1071,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1108,7 +1084,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1121,7 +1097,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1134,7 +1110,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1147,7 +1123,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1160,7 +1136,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1173,7 +1149,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1186,7 +1162,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1199,7 +1175,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1212,7 +1188,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1225,7 +1201,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1238,7 +1214,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1251,7 +1227,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1264,7 +1240,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1277,7 +1253,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1290,7 +1266,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1303,7 +1279,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1316,7 +1292,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1329,7 +1305,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1342,7 +1318,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1355,7 +1331,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1368,7 +1344,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1381,7 +1357,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1394,7 +1370,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1407,7 +1383,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1420,7 +1396,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1433,7 +1409,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1446,7 +1422,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1459,7 +1435,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1472,7 +1448,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1485,7 +1461,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1498,7 +1474,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1511,7 +1487,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1524,7 +1500,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1537,7 +1513,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1550,7 +1526,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1563,7 +1539,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1576,7 +1552,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1589,7 +1565,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1602,7 +1578,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1615,7 +1591,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1628,7 +1604,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1641,7 +1617,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1654,7 +1630,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1667,7 +1643,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1680,7 +1656,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1693,7 +1669,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1706,7 +1682,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1719,7 +1695,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1732,7 +1708,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1745,7 +1721,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1758,7 +1734,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1771,7 +1747,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1784,7 +1760,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1797,7 +1773,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1810,7 +1786,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1823,7 +1799,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1836,7 +1812,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1849,7 +1825,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1862,7 +1838,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1875,7 +1851,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1888,7 +1864,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
@@ -1901,52 +1877,26 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>主要地方道 日置川大塔線　白浜町安居(時間制限通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 日置川大塔線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>白浜町安居</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>白浜町安居</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社日置川建設</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間制限通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/07/24 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/07/26 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>①9:00～10:00、②10:30～11:30、③12:30～15:00、④15:30～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL74</styleUrl>
-        <Point>
-          <coordinates>135.479633029464,33.6152592354286</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/26 00:05:02</name>
-      <visibility>1</visibility>
-      <open>1</open>
-      <Placemark>
-        <name>主要地方道 日置川大塔線　白浜町安居(時間制限通行止)</name>
-        <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>西牟婁建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>主要地方道 日置川大塔線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>白浜町安居</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>白浜町安居</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社日置川建設</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>時間制限通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/07/24 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/07/26 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>①9:00～10:00、②10:30～11:30、③12:30～15:00、④15:30～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>無</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL75</styleUrl>
-        <Point>
-          <coordinates>135.4822948846,33.6126075924506</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 たかの金屋線　みなべ町高野(通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 たかの金屋線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>みなべ町高野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>みなべ町高野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社タスク・フォース</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/07/25 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/07/26 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL76</styleUrl>
+        <styleUrl>#SYMBOL74</styleUrl>
         <Point>
           <coordinates>135.336971250157,33.8670847531983</coordinates>
         </Point>
       </Placemark>
     </Folder>
     <Folder>
-      <name>2019/07/26 00:05:02</name>
+      <name>2019/07/27 00:05:02</name>
       <visibility>1</visibility>
       <open>1</open>
       <Placemark>
         <name>一般県道 たかの金屋線　みなべ町高野(通行止)</name>
         <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" >住所</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >現場責任者（建設部）</td><td>日高建設部</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路線</td><td>一般県道 たかの金屋線</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名起点</td><td>みなべ町高野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >地名終点</td><td>みなべ町高野</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >業者（名称）</td><td>株式会社タスク・フォース</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制原因</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制状況</td><td>通行止</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >方向区分</td><td>上下</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制開始日時</td><td>2019/07/25 9:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >規制終了日時</td><td>2019/07/26 17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >報告者（建設部）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >路面状況_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >曜日_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_1</td><td>時間規制</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >時間_2</td><td>9:00～17:00</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_1</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >車両_2</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路の有無</td><td>有</td></tr><tr><td style="color:#0000FF;padding-right:1em;" >迂回路（名称）</td><td></td></tr><tr><td style="color:#0000FF;padding-right:1em;" >備考</td><td></td></tr></table>]]></description>
-        <styleUrl>#SYMBOL77</styleUrl>
+        <styleUrl>#SYMBOL75</styleUrl>
         <Point>
           <coordinates>135.336875195713,33.8690165338048</coordinates>
         </Point>
