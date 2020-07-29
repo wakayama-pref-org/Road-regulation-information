@@ -1,5 +1,5 @@
 # information-of-road-traffic-regulation
-　和歌山県内の道路規制情報（2016年10月18日時点）です。
+　和歌山県内の道路規制情報です。
 
 ###（GitHubアカウント「Wakayama Prefecture」について）
 　「Wakayama Prefecture」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が運用しているものです。
